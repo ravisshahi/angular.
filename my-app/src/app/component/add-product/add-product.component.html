@@ -1,0 +1,20 @@
+<form *ngif="showAddproducts" class ="form-control add-from" (ngSubmit)="onSubmit()">
+    <div class="form-control">
+        <label for ="product">product</label>
+        <input type="brand"[(ngModel)]="brand" name ="brand" id="brand" placeholder="brand">
+    </div>
+    <div class="form-control">
+        <label for ="product">product</label>
+        <input type="processor"[(ngModel)]="processor" name ="processor" id="processor" placeholder="processor">
+    </div>
+    <div class="form-control">
+        <label for ="product">product</label>
+        <input type="model"[(ngModel)]="model" name ="model" id="model" placeholder="model">
+    </div>
+    <div class="form-control form-control-check">
+        <label for="Reminder">Set Reminder</label>
+        <input type="checkbox" [(ngModel)]="Reminder" name="Reminder" id="Reminder" placeholder="Reminder">
+    </div>
+    {{brand}}
+    <input type="submit" value="Save product" class="btn-block">
+</form>

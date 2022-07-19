@@ -1,0 +1,49 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "product_picture": "OIP (2).jpg",
+      "mobilename": "RealmeX2 Pro",
+      "model": "RMX1931",
+      "brand": "Realme",
+      "price": 4.9,
+      "processor": "SD755+",
+      "rating": 2,
+      "description": "descriptio",
+      "Reminder": true
+    },
+    {
+      "id": 3,
+      "product_picture": "OIP (2).jpg",
+      "mobilename": "RealmeX2 Pro",
+      "model": "RMX1931",
+      "brand": "Realme",
+      "price": 4.9,
+      "processor": "SD755+",
+      "rating": 4,
+      "description": "descriptio",
+      "Reminder": false
+    },
+    {
+      "model": "uujuuu",
+      "processor": "kkkkkk",
+      "brand": "jjjjj",
+      "Reminder": true,
+      "id": 6
+    },
+    {
+      "model": "tertr",
+      "processor": "reqw",
+      "brand": "    nnnn",
+      "Reminder": false,
+      "id": 7
+    },
+    {
+      "model": "n",
+      "processor": "jmn",
+      "brand": "l",
+      "Reminder": true,
+      "id": 8
+    }
+  ]
+}

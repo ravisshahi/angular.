@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Form Validation",
+      "day": "July 11th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Bootstrap",
+      "day": "July 12th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Angular",
+      "day": "July 13th at 11:30am",
+      "reminder": false
+    }
+  ],
+  "products": []
+}

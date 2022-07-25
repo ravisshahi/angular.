@@ -1,0 +1,65 @@
+import {Task} from "./Tasks"
+
+export const TASKS: Task[] = 
+[
+    {
+        id : 1,
+        text: 'Web Design',
+        day: 'July 10th at 2:30pm',
+        reminder: true
+    },
+    {
+        id : 2,
+        text: 'Form Validation',
+        day: 'July 11th at 1:30pm',
+        reminder: true
+    },
+    {
+        id : 3,
+        text: 'Bootstrap',
+        day: 'July 12th at 12:30pm',
+        reminder: false
+    },
+    {
+        id : 4,
+        text: 'Java Script',
+        day: 'July 13th at 3:00pm',
+        reminder: true
+    },
+    {
+        id : 5,
+        text: 'CSS',
+        day: 'July 14th at 4:30pm',
+        reminder: false
+    },
+    {
+        id : 6,
+        text: 'Template',
+        day: 'July 15th at 6:00pm',
+        reminder: false
+    },
+    {
+        id : 7,
+        text: 'Hospital Form',
+        day: 'July 16th at 7:30pm',
+        reminder: false
+    },
+    {
+        id : 8,
+        text: 'Angular',
+        day: 'July 17th at 11:30am',
+        reminder: true
+    },
+    {
+        id : 9,
+        text: 'Flipkart',
+        day: 'July 10th at 7:30am',
+        reminder: true
+    },
+    {
+        id : 10,
+        text: 'Game Design',
+        day: 'July 10th at 2:30pm',
+        reminder: true
+    }
+]

@@ -1,0 +1,6 @@
+<div *ngIf="product" class="product" [ngClass] = "{reminder: product.latest}" (dblclick) = "productToggle(product)">
+    <h3>
+        {{product.pname}}
+    </h3>
+    <p>{{product.price}}</p>
+</div>
